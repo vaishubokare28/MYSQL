@@ -20,7 +20,7 @@
 
 ### 1. Create a Database
 ```sql
-CREATE DATABASE database_name;
+CREATE DATABASE database_name;```
 
 ### 2. Show All Databases
 ```sql
